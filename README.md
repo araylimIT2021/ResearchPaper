@@ -5,4 +5,4 @@ testing, we found that utilizing naïve Bayes resulted in an impressive accuracy
 insights into student experiences, enabling the enhancement of educational outcomes. This approach also facilitates efficient evaluation of lecturer 
 performance and harnesses valuable suggestions from students, positively impacting the university community.
 
-Link to research paper: https://github.com/araylimIT2021/ResearchPaper/blob/main/Final_research_paper_arailym_issayeva.pdf
+Link to the research paper: https://github.com/araylimIT2021/ResearchPaper/blob/main/Final_research_paper_arailym_issayeva.pdf
